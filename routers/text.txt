@@ -1,0 +1,7 @@
+
+GET : https://localhost:9000/aliens
+GET : https://localhost:9000/aliens/<id>
+POST : https://localhost:9000/aliens
+PATCH : https://localhost:9000/aliens/<id>
+GET : https://localhost:9000/books
+
